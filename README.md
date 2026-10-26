@@ -2,10 +2,10 @@ Hi
 Hi, I'm Abdulmuiz 👋
 
 
-Junior Data Analyst | Excel • SQL • Power BI
+Entry-level Data Analyst | Excel • SQL • Power BI
 
 
-I'm an Junior Data Analyst building practical skills in data cleaning, analysis, visualisation, and business intelligence.
+I'm an Entry-level Data Analyst building practical skills in data cleaning, analysis, visualisation, and business intelligence.
 
 
 Through hands-on training and personal projects, I'm learning how to transform raw data into meaningful insights that help answer business questions and support informed decision-making.
