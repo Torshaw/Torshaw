@@ -4,14 +4,7 @@ Hi, I'm Abdulmuiz 👋
 Entry-level Data Analyst | Excel • SQL • Power BI
 
 
-I'm an Entry-level Data Analyst building practical skills in data cleaning, analysis, visualisation, and business intelligence.
-
-
-Through hands-on training and personal projects, I'm learning how to transform raw data into meaningful insights that help answer business questions and support informed decision-making.
-
-
-I believe in learning by doing, documenting my progress, and continuously improving through practical projects.
-
+Data Analyst with practical training and hands-on project experience in Data Cleaning, Visualization, Analysis and Insight generation. Skilled in Microsoft Excel, Power BI, SQL, and Python with practical experience to prepare datasets, explore patterns, and communicate findings. Currently undertaking data analytics training at Ilorin Innovation Hub, applying analytical techniques to practical assignments and portfolio projects. Able to transform raw data into clear summaries that support informed decision-making.
 
 🛠️ Skills & Tools
 
