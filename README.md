@@ -1,7 +1,7 @@
 Hi, I'm Abdulmuiz 👋
 
 
-Entry-level Data Analyst | Excel • SQL • Power BI
+Data Analyst | Excel • SQL • Power BI
 
 
 Data Analyst with practical training and hands-on project experience in Data Cleaning, Visualization, Analysis and Insight generation. 
@@ -59,7 +59,7 @@ Focus areas: SELECT statements, filtering, aggregations, GROUP BY, HAVING, and J
 Project links will be added as the repositories are published.
 
 
-🌱 Currently Learning
+🌱 Currently Growing
 
 
 
