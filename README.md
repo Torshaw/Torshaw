@@ -83,7 +83,7 @@ Developing a portfolio through hands-on projects
 
 
 
-LinkedIn: https://www.linkedin.com/in/torshaw
+[LinkedIn](https://www.linkedin.com/in/torshaw)
 
 
 GitHub: Explore my repositories
